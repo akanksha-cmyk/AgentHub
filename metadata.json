@@ -1,0 +1,11 @@
+{
+  "name": "AgentHub Fitness",
+  "description": "An autonomous AI agent onboarding users via voice/video FaceTime calls and executing research, email marketing drafts, and smart calendar bookings.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
